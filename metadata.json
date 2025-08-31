@@ -1,0 +1,5 @@
+{
+  "name": "PsicologIA Chat",
+  "description": "A chat interface for PsicologIA, an AI-powered psychology assistant. The app displays a conversation, sends user messages to a backend service, and streams the AI's response back to the user sentence by sentence.",
+  "requestFramePermissions": []
+}
